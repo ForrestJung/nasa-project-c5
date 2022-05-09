@@ -1,3 +1,40 @@
 body {
     background-color: blue;
 }
+
+img {
+    max-width: 850px;
+    max-height: 450px;
+}
+
+.space {
+    width: 850px;
+    height: 450px;
+}
+
+.inlineElements {
+    display: flex;
+    background-color: lightgray;
+    max-width: 850px;
+    max-height: 450px;
+
+}
+
+article {
+    margin: 20px;
+    width: 270px;
+    height: 324px;
+}
+
+article > h1 {
+    text-transform: capitalize;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a {
+    
+}
