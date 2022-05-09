@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: white;
 }
 
 img {
@@ -36,5 +36,22 @@ p {
 }
 
 a {
-    
+    margin-top: 15px;
+}
+
+.messagebox {
+    height: 90px;
+}
+
+.sendbutton {
+    color: white;
+    margin-top: 10px;
+    padding-top: 2px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    border: solid;
+    border-style: solid;
+    border-color: gray;
+    background-color: gray;
 }
